@@ -1,0 +1,12 @@
+﻿  ComboChat.cpp
+c:\users\sam\source\repos\combochat\combochat\client.cpp(30): warning C4101: 'err': unreferenced local variable
+c:\users\sam\source\repos\combochat\combochat\combochat.cpp(40): warning C4101: 'sockErr': unreferenced local variable
+c:\users\sam\source\repos\combochat\combochat\combochat.cpp(123): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\sam\source\repos\combochat\combochat\combochat.cpp(115): warning C4101: 'WSAGetLastError': unreferenced local variable
+c:\users\sam\source\repos\combochat\combochat\combochat.cpp(125): warning C4101: 'bind': unreferenced local variable
+c:\users\sam\source\repos\combochat\combochat\combochat.cpp(148): warning C4101: 'err': unreferenced local variable
+c:\users\sam\source\repos\combochat\combochat\combochat.cpp(135): warning C4715: 'StartUp::socketChecks': not all control paths return a value
+c:\users\sam\source\repos\combochat\combochat\combochat.cpp(101): warning C4715: 'StartUp::winSockCheck': not all control paths return a value
+c:\users\sam\source\repos\combochat\combochat\client.cpp(34): warning C4715: 'ClientSetUp::winSockCheck': not all control paths return a value
+c:\users\sam\source\repos\combochat\combochat\client.cpp(73): warning C4715: 'ClientSetUp::socketCheck': not all control paths return a value
+  ComboChat.vcxproj -> C:\Users\Sam\source\repos\ComboChat\Debug\ComboChat.exe
